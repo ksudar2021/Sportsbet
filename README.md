@@ -69,6 +69,18 @@ build/reports/jacoco/test/html/index.html
         "totalCost": 53.75
         }`
 
+## Features
+✅ Stateless REST API - pure in-memory ticket price calculation
+✅ Ticket Categorization logic - Categorizes customers Adult, Senior, Teen, or Child based on age.
+✅ 25% Child Discount -  Automatically applies when there are 3 or more children in transaction
+✅ Total cost calculation - calculates total cost per ticket type and total transaction cost.
+
+## Additional Features
+✅ Optimized with HashMap - ensuring performance and scalability
+✅ Detailed Exception Handling - Handles all exceptions with clean and clear responses
+✅ Structures Error responses -  All exceptions returns consistent JSON error structure
+✅ Code Coverage - Achieved 91% code coverage(HTML report Generated)
+
 
 👩‍💻 Author
 -Sudarvizhi Kadhiroli(Software Engineer)
